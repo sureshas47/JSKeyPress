@@ -5,5 +5,7 @@
 <br>
 
 For demo go <a href="https://asangam.github.io/JSKeyPress/">here.</a>
+<br>
+To get the keycode of any keyboard visit <a href="http://keycode.info/">here.</a>
  </h3>
 
